@@ -102,13 +102,13 @@ A. Bandara, et al. &nbsp; · &nbsp; *Association for Computational Linguistics (
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshaanB&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=1E40AF&icon_color=2563EB&text_color=1F2937&border_radius=12&card_width=380" alt="GitHub Stats" /> <img src="https://github-streak-stats.herokuapp.com/?user=AkshaanB&theme=react&background=FAFAFA&titleColor=1E40AF&streakColor=2563EB&currStreakColor=1E40AF" alt="Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshaanB&theme=default" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkshaanB&theme=react&background=FAFAFA&titleColor=1E40AF&streakColor=2563EB&currStreakColor=1E40AF" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaanB&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=1E40AF&text_color=1F2937&border_radius=12&card_width=380" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkshaanB&theme=default" alt="Top Languages" />
 
 </div>
 
