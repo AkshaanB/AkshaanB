@@ -1,6 +1,7 @@
-<div align="center">
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,100:7C3AED&height=180&section=header&text=Akshaan+Bandara&fontColor=%23FFFFFF&fontSize=45" alt="Header" />
 
-# Akshaan Bandara
+<div align="center">
 
 ### AI Researcher & Machine Learning Specialist
 
@@ -15,7 +16,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshaanB)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2620-3343)
 [![CV](https://img.shields.io/badge/CV-Download-2563EB?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XfjHE2X-Au8HNesUzN_vYzb6F5uD2590/view?usp=sharing)
-[![Website](https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://akshaanb.github.io)
+[![Website](https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://akshaanb.github.io/AkshaanB/)
+
+<br/>
+
+![GitHub Followers](https://img.shields.io/github/followers/AkshaanB?style=flat-square&labelColor=1F2937&color=2563EB&label=Followers)
+![Last Active](https://img.shields.io/github/last-commit/AkshaanB/AkshaanB?style=flat-square&labelColor=1F2937&color=7C3AED&label=Last+Active)
 
 </div>
 
@@ -27,12 +33,16 @@ I am an AI researcher with over **3 years of industry experience** specializing 
 
 Currently, I am engaged in research focused on **Medical Imaging** and **Assistive Technologies**, where I apply AI and Computer Vision to develop cutting-edge solutions that enhance healthcare diagnostics and empower individuals with disabilities.
 
+<div align="center">
+
 | | |
 |:--|:--|
 | **Education** | First Class Honours, BEng Software Engineering — University of Westminster |
 | **Location** | Sri Lanka |
 | **Email** | [akshaanbandara@gmail.com](mailto:akshaanbandara@gmail.com) |
 | **Phone** | +94 77 050 2135 |
+
+</div>
 
 ---
 
@@ -50,12 +60,17 @@ Currently, I am engaged in research focused on **Medical Imaging** and **Assisti
 
 <div align="center">
 
+#### Core AI & Machine Learning
+
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-2563EB?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-2563EB?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
 ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-2563EB?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square)
+
+#### Domain Applications & Tools
+
 ![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-E11D48?style=flat-square)
 ![Assistive Technologies](https://img.shields.io/badge/Assistive_Technologies-10B981?style=flat-square)
 ![MLOps](https://img.shields.io/badge/MLOps-1D4ED8?style=flat-square)
@@ -72,7 +87,11 @@ Currently, I am engaged in research focused on **Medical Imaging** and **Assisti
 | **2023** | Interpretable Machine Learning: A Comprehensive Survey | Journal of Artificial Intelligence Research |
 | **2023** | Robust Natural Language Processing in Low-Resource Settings | ACL |
 
-[View all publications on Google Scholar →](https://scholar.google.com/citations?user=iOFrvE4AAAAJ&hl=en)
+<div align="center">
+
+[![Google Scholar](https://img.shields.io/badge/All_Publications-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=iOFrvE4AAAAJ&hl=en)
+
+</div>
 
 ---
 
@@ -80,8 +99,7 @@ Currently, I am engaged in research focused on **Medical Imaging** and **Assisti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshaanB&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=2563EB&icon_color=7C3AED&text_color=1F2937&border_radius=12&card_width=380" alt="GitHub Stats" />
-<img src="https://github-streak-stats.herokuapp.com/?user=AkshaanB&theme=react&background=FAFAFA&titleColor=2563EB&streakColor=7C3AED&currStreakColor=2563EB" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkshaanB&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=2563EB&icon_color=7C3AED&text_color=1F2937&border_radius=12&card_width=380" alt="GitHub Stats" /> <img src="https://github-streak-stats.herokuapp.com/?user=AkshaanB&theme=react&background=FAFAFA&titleColor=2563EB&streakColor=7C3AED&currStreakColor=2563EB" alt="Streak Stats" />
 
 </div>
 
@@ -97,11 +115,19 @@ Currently, I am engaged in research focused on **Medical Imaging** and **Assisti
 
 </div>
 
+<div align="center">
+
+<img src="https://github-activity-graph.vercel.app/graph?username=AkshaanB&theme=react&bg_color=FAFAFA&line=2563EB&point=7C3AED&area=true&hide_border=true" alt="Contribution Activity Graph" />
+
+</div>
+
 ---
 
 ## Contact
 
 I'm always interested in collaborating on research projects, discussing new ideas, or exploring opportunities.
+
+<div align="center">
 
 | Channel | Details |
 |:--------|:--------|
@@ -113,10 +139,15 @@ I'm always interested in collaborating on research projects, discussing new idea
 | ORCID | [0000-0003-2620-3343](https://orcid.org/0000-0003-2620-3343) |
 | CV | [Download](https://drive.google.com/file/d/1XfjHE2X-Au8HNesUzN_vYzb6F5uD2590/view?usp=sharing) |
 
+</div>
+
 ---
 
 <div align="center">
 
-© 2024 Akshaan Bandara &nbsp; | &nbsp; [Personal Website](https://akshaanb.github.io)
+© 2024 Akshaan Bandara &nbsp; | &nbsp; [Personal Website](https://akshaanb.github.io/AkshaanB/)
 
 </div>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:7C3AED,100:2563EB&height=60&section=footer" alt="Footer" />
